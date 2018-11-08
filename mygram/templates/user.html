@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>{{user}}</h1>
+<h2>tatatata</h2>
+<input type="button" value="Log out" onclick='location.href="/accounts/logout"'>
+<input type="button" value="Log in" onclick='location.href="/accounts/login"'><br>
+{% for user in users %}
+<p>{{user.user.username}}</p>
+{% endfor %}
+</body>
+</html>
