@@ -9,8 +9,16 @@
 <h2>tatatata</h2>
 <input type="button" value="Log out" onclick='location.href="/accounts/logout"'>
 <input type="button" value="Log in" onclick='location.href="/accounts/login"'><br>
-{% for user in users %}
-<p>{{user.user.username}}</p>
+{% for image in images %}
+<img src="{{image.image.url}}" style="width:100px; height:100px;">
+<p>{{image.profile}}</p>
 {% endfor %}
+
+<form action="" method="POST" enctype="multipart/form-data">
+    {% csrf_token%}
+    {{ form.as_p }}
+    <button type="submit">Отправить</button>
+</form>
+
 </body>
 </html>
