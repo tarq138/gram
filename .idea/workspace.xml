@@ -1,14 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba4b998c-9765-4a54-a692-57efcfed7ced" name="Default Changelist" comment="">
+    <list default="true" id="e7b9d600-d53d-47ef-8827-98529b28c2e4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mygram/User/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/mygram/User/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mygram/User/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/mygram/User/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygram/User/migrations/0002_auto_20181109_0046.py" beforeDir="false" afterPath="$PROJECT_DIR$/mygram/User/migrations/0002_auto_20181109_0046.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygram/User/migrations/0003_auto_20181109_0050.py" beforeDir="false" afterPath="$PROJECT_DIR$/mygram/User/migrations/0003_auto_20181109_0050.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygram/User/migrations/0004_auto_20181109_0058.py" beforeDir="false" afterPath="$PROJECT_DIR$/mygram/User/migrations/0004_auto_20181109_0058.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygram/User/migrations/0005_auto_20181109_0059.py" beforeDir="false" afterPath="$PROJECT_DIR$/mygram/User/migrations/0005_auto_20181109_0059.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygram/User/migrations/0006_remove_profile_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/mygram/User/migrations/0006_remove_profile_user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygram/User/migrations/0007_auto_20181109_1214.py" beforeDir="false" afterPath="$PROJECT_DIR$/mygram/User/migrations/0007_auto_20181109_1214.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygram/User/migrations/0008_auto_20181109_1224.py" beforeDir="false" afterPath="$PROJECT_DIR$/mygram/User/migrations/0008_auto_20181109_1224.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygram/User/migrations/0009_auto_20181109_1229.py" beforeDir="false" afterPath="$PROJECT_DIR$/mygram/User/migrations/0009_auto_20181109_1229.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygram/User/migrations/0010_auto_20181109_1402.py" beforeDir="false" afterPath="$PROJECT_DIR$/mygram/User/migrations/0010_auto_20181109_1402.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygram/User/migrations/0011_auto_20181109_1411.py" beforeDir="false" afterPath="$PROJECT_DIR$/mygram/User/migrations/0011_auto_20181109_1411.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygram/User/migrations/0012_auto_20181109_1412.py" beforeDir="false" afterPath="$PROJECT_DIR$/mygram/User/migrations/0012_auto_20181109_1412.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygram/User/migrations/0013_auto_20181109_1420.py" beforeDir="false" afterPath="$PROJECT_DIR$/mygram/User/migrations/0013_auto_20181109_1420.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygram/User/migrations/0014_auto_20181109_1422.py" beforeDir="false" afterPath="$PROJECT_DIR$/mygram/User/migrations/0014_auto_20181109_1422.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mygram/User/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mygram/User/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mygram/User/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mygram/User/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mygram/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mygram/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygram/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/mygram/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygram/mygram/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mygram/mygram/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygram/mygram/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mygram/mygram/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygram/mygram/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/mygram/mygram/wsgi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mygram/templates/user.html" beforeDir="false" afterPath="$PROJECT_DIR$/mygram/templates/user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Django-2.1.3.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Django-2.1.3.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Pillow-5.3.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Pillow-5.3.0.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Pillow-5.3.0.dist-info/WHEEL" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Pillow-5.3.0.dist-info/WHEEL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Pillow-5.3.0.dist-info/zip-safe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Pillow-5.3.0.dist-info/zip-safe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/certifi-2018.10.15.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/certifi-2018.10.15.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chardet-3.0.4.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet-3.0.4.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/defusedxml-0.5.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/defusedxml-0.5.0.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django/contrib/admin/static/admin/fonts/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django/contrib/admin/static/admin/fonts/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django_allauth-0.38.0-py3.7.egg-info/PKG-INFO" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_allauth-0.38.0-py3.7.egg-info/PKG-INFO" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django_allauth-0.38.0-py3.7.egg-info/installed-files.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django_allauth-0.38.0-py3.7.egg-info/installed-files.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/idna-2.7.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/idna-2.7.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib-2.1.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib-2.1.0.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-18.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-18.1.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pkg_resources/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pkg_resources/_vendor/pyparsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/python3_openid-3.1.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python3_openid-3.1.0.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pytz-2018.7.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz-2018.7.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/requests-2.20.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests-2.20.1.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/requests_oauthlib-1.0.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_oauthlib-1.0.0.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-39.0.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-39.0.1.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/_vendor/pyparsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3-1.24.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3-1.24.1.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/activate.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/deactivate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/deactivate.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/django-admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/django-admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,134 +63,36 @@
     <session id="438155311">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="bmp" value="1" />
-          <entry key="html" value="1" />
-          <entry key="py" value="8" />
+          <entry key="py" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="1" />
-          <entry key="Image" value="1" />
-          <entry key="Python" value="8" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="html" value="190" />
-          <entry key="py" value="2353" />
-          <entry key="txt" value="54" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="HTML" value="190" />
-          <entry key="PLAIN_TEXT" value="54" />
-          <entry key="Python" value="2353" />
+          <entry key="Python" value="2" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mygram/User/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="22" lean-forward="true" selection-start-line="6" selection-end-line="7" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-                <marker date="1541769333155" expanded="true" signature="446:486" ph="..." />
-                <marker date="1541769333155" expanded="true" signature="845:848" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mygram/User/forms.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#34#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mygram/mygram/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3080">
-              <caret line="140" selection-start-line="140" selection-end-line="140" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mygram/mygram/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="79" selection-start-line="11" selection-start-column="79" selection-end-line="11" selection-end-column="79" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mygram/User/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/mygram/User/tests.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mygram/User/views.py">
+        <entry file="file://$PROJECT_DIR$/mygram/User/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="27" />
+            <state relative-caret-position="198">
+              <caret line="9" column="58" lean-forward="true" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
               <folding>
-                <element signature="e#0#64#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mygram/templates/user.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" selection-start-line="17" selection-end-line="21" selection-end-column="7" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#form#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mygram/User/admin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="28" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
+                <element signature="e#0#28#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -155,35 +100,8 @@
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/mygram/User/models.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/mygram/User/views.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/mygram/mygram/settings.py" root0="SKIP_INSPECTION" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/mygram/mygram/settings.py" />
-        <option value="$PROJECT_DIR$/mygram/User/urls.py" />
-        <option value="$PROJECT_DIR$/mygram/mygram/urls.py" />
-        <option value="$PROJECT_DIR$/mygram/User/admin.py" />
-        <option value="$PROJECT_DIR$/mygram/templates/user.html" />
-        <option value="$PROJECT_DIR$/mygram/User/models.py" />
-        <option value="$PROJECT_DIR$/mygram/User/forms.py" />
-        <option value="$PROJECT_DIR$/mygram/User/views.py" />
-      </list>
-    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -196,7 +114,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,6 +130,25 @@
               <item name="gram" type="b2602c69:ProjectViewProjectNode" />
               <item name="gram" type="462c0819:PsiDirectoryNode" />
               <item name="mygram" type="462c0819:PsiDirectoryNode" />
+              <item name="mygram" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gram" type="462c0819:PsiDirectoryNode" />
+              <item name="mygram" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gram" type="462c0819:PsiDirectoryNode" />
+              <item name="mygram" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gram" type="462c0819:PsiDirectoryNode" />
+              <item name="mygram" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -221,21 +157,20 @@
               <item name="mygram" type="462c0819:PsiDirectoryNode" />
               <item name="User" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="gram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gram" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\gram\mygram\User" />
-    </key>
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -254,55 +189,31 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ba4b998c-9765-4a54-a692-57efcfed7ced" name="Default Changelist" comment="" />
-      <created>1541705202143</created>
+      <changelist id="e7b9d600-d53d-47ef-8827-98529b28c2e4" name="Default Changelist" comment="" />
+      <created>1541884431928</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1541705202143</updated>
+      <updated>1541884431928</updated>
     </task>
-    <task id="LOCAL-00001" summary="add Profile and django-allauth">
-      <created>1541708907830</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1541708907830</updated>
-    </task>
-    <task id="LOCAL-00002" summary="add ProfilePhoto">
-      <created>1541709895307</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1541709895307</updated>
-    </task>
-    <task id="LOCAL-00003" summary="add ProfilePhoto">
-      <created>1541755827200</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1541755827200</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.12328767" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="3" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Version Control" order="6" weight="0.32939914" />
-      <window_info anchor="bottom" id="Run" order="7" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12750264" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -311,91 +222,16 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="add Profile and django-allauth" />
-    <MESSAGE value="add ProfilePhoto" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ProfilePhoto" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mygram/User/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mygram/User/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mygram/mygram/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="79" selection-start-line="11" selection-start-column="79" selection-end-line="11" selection-end-column="79" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mygram/mygram/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3080">
-          <caret line="140" selection-start-line="140" selection-end-line="140" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/wlh0sgs5.bmp">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/mygram/User/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/mygram/User/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="22" lean-forward="true" selection-start-line="6" selection-end-line="7" selection-end-column="22" />
+        <state relative-caret-position="198">
+          <caret line="9" column="58" lean-forward="true" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
-            <marker date="1541769333155" expanded="true" signature="446:486" ph="..." />
-            <marker date="1541769333155" expanded="true" signature="845:848" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mygram/templates/user.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" selection-start-line="17" selection-end-line="21" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#form#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mygram/User/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mygram/User/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#64#0" expanded="true" />
           </folding>
         </state>
       </provider>
