@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Заголовок страницы</title>
+    <link href="https://fonts.googleapis.com/css?family=Gaegu:700|Merienda:700" rel="stylesheet">
+    {% load staticfiles %}
+    <link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}" type="text/css">
+    <link rel="stylesheet" href="{% static 'css/style.css' %}" type="text/css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+</head>
+<body>
+<div class="body">
+    <div class="header">
+        <div class="user">
+            {% if user.is_active %}
+                Welcom, {{user}}
+                <div class="btn btn-outline-danger btn-sm">
+                    <a id="in" href="/accounts/logout">
+                        <i class="fas fa-times"></i>
+                    </a>
+                </div>
+            {% else %}
+                <div class="btn btn-outline-success"><a id="out" href="/accounts/login"><i class="fas fa-sign-in-alt"></i></a></div>
+            {% endif %}
+        </div> 
+    </div>
+    {% block content %}
+    {% endblock content %}
+</div>
+</body>
+</html>

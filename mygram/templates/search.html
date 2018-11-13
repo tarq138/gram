@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+{{founded_profiles.count}}<br>
+{% for founded_profile in founded_profiles %}
+{{ founded_profile.id }}<br>
+{% endfor %}
+</body>
+</html>

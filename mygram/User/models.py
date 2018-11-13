@@ -7,7 +7,7 @@ from django.dispatch import receiver
 class Profile(models.Model):
     user = models.OneToOneField(User, on_delete=models.CASCADE)
     bio = models.TextField(max_length=500, blank=True)
-    location = models.CharField(max_length=30, blank=True)
+    profile_image = models.ImageField(upload_to='profile_image/', default='profile_image/default.png')
     birth_date = models.DateField(null=True, blank=True)
 
     def __str__(self):
@@ -29,10 +29,13 @@ def save_user_profile(sender, instance, **kwargs):
     instance.profile.save()
 
 
+
+
+
+
 class ProfileImage(models.Model):
     profile = models.ForeignKey(Profile, verbose_name="Пользователь", on_delete=models.CASCADE)
     image = models.ImageField(upload_to='products_images/')
-    is_main = models.BooleanField(default=False)
     is_active = models.BooleanField(default=True)
     created = models.DateTimeField(auto_now_add=True, auto_now=False)
     updated = models.DateTimeField(auto_now_add=False, auto_now=True)
