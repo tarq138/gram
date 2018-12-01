@@ -29,10 +29,6 @@ def save_user_profile(sender, instance, **kwargs):
     instance.profile.save()
 
 
-
-
-
-
 class ProfileImage(models.Model):
     profile = models.ForeignKey(Profile, verbose_name="Пользователь", on_delete=models.CASCADE)
     image = models.ImageField(upload_to='products_images/')

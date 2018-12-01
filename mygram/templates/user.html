@@ -1,45 +1,15 @@
 {% extends 'base.html' %}
+{% load staticfiles %}
 {% block content %}
-
-{% if user.is_active %}
-<div class="left_container">
-    2
+<div class="userpage">   
+    <div class="userheader" id="{{profile}}">
+        <h1>{{profille}}</h1>
+    </div>
+    
+    {% for image in profille.profileimage_set.all %}
+    <div class="image">
+        <img src="{{image.image.url}}">    
+    </div>
+    {% endfor %}
 </div>
-<div class="right_container">
-    <h2>Ваш профиль</h2>
-    <img id="profile_image" src="{{profile.profile_image.url}}">
-</div>
-{% else %}
-<div class="middle_container">
-    a
-</div>
-{% endif %}
-
-<h1>{{user.id}}</h1>
-<h2>{{profile.profile_image}}</h2>
-<h3>tatatata</h3>
-<input type="button" value="Log out" onclick='location.href="/accounts/logout"'>
-<input type="button" value="Log in" onclick='location.href="/accounts/login"'><br>
-{% for image in images %}
-<img src="{{image.image.url}}" style="width:100px; height:100px;">
-<p>{{image.profile.user.username}}</p>
-<p>{{image.profile.profile_image}}</p>
-{% endfor %}
-
-<form action="" method="POST" enctype="multipart/form-data">
-    {% csrf_token%}
-    {{ form.as_p }}
-    <button type="submit">Отправить</button>
-</form>
-
 {% endblock content %}
-<!--<p>Поиск</p>-->
-<!--<form method="GET" action="">-->
-    <!--<input type="text" placeholder="Search" name="q">-->
-    <!--<button type="submit">Submit</button>-->
-<!--</form>-->
-<!--<p>результат поиска</p>-->
-<!--{{founded_profiles.count}}<br>-->
-<!--{% for founded_profile in founded_users %}-->
-<!--{{ founded_profile.id }}<br>-->
-<!--{% endfor %}-->
