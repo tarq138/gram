@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+{% block content %}
+{% for image in images%}
+<div class="photo" id="{{image.profile.user.username}}">
+    <div class="profileinfo">
+        <a href="{% url 'user' image.profile.user.id %}"><img src="{{image.profile.profile_image.url}}"\></a>
+        <a href="{% url 'user' image.profile.user.id %}"><h3>{{image.profile.user.username}}</h3></a>
+    </div>
+    <div class="image">
+        <img src="{{image.image.url}}">    
+    </div>
+</div>
+{% endfor %}
+{% endblock content %}

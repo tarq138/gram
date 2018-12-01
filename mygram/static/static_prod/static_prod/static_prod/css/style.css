@@ -1,0 +1,69 @@
+@import url(reset.css);
+
+html, body{
+    font-family: 'Merienda', cursive;
+    font-size: 16px;
+    line-height: 1.5;/*Базовая высота строчки*/
+    min-width: 280px; 
+    text-align: center;
+}
+.header{
+    width: 100%;
+    height: 75px;
+    background-color: ;
+    background: linear-gradient(to left, #9400D3, #b22222)
+}
+.user{
+    float: right;
+    font-size: 24px;
+    padding-top: 15px;
+    padding-right: 25px;
+    color: beige;
+}
+a, a:hoverб{
+    text-decoration: none;
+}
+#in{
+    color:#b22222;
+}
+#in:hover{
+    color: white;
+}
+#out{
+    color: #28a745
+}
+.btn-outline-danger{
+    color:#b22222;
+    border-color: #b22222;
+}
+.left_container, .right_container, .middle_container{
+    margin-top: 15px;
+}
+.left_container{
+    width: 65%;
+    float: left;
+    margin-left: 3%;
+    border: 1.2px solid #b22222;
+    border-radius: 5px;
+}
+.right_container{
+    width: 15%;
+    float: right;
+    margin-right: 5%;
+    min-height: 250px;
+    border: 1.2px solid #9400D3;
+    border-radius: 5px;
+}
+.middle_container{
+    width: 80%;
+    float: left;
+    margin-left: 10%;
+    border: 1.2px solid #9400D3;
+    border-radius: 5px;
+}
+#profile_image{
+    width: 70px;
+    height: 70px;
+    border: 1px solid #9400D3;
+    border-radius: 50%;
+}

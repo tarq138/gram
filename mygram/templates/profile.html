@@ -1,0 +1,26 @@
+{% if user.is_active %}
+    <div class="profile_info">
+        <h2>Ваш профиль</h2><a href="{% url 'user' user.id %}"><h2>{{user.username}}</h2></a>
+        <img id="profile_image" src="{{profile.profile_image.url}}">
+    </div>
+    <div class="add_image">
+        <form action="" method="POST" enctype="multipart/form-data">
+            {% csrf_token%}
+            {{ form.as_p }}
+            <button type="submit" class="add"><i class="fas fa-check"></i></button>
+        </form>
+    </div>
+    <div class="search">
+        <h3>Search</h3>
+        {% csrf_token%}
+        <input type="text" id="search" placeholder="search..."/>
+        {% include 'search.html' %}
+    </div>
+    <div class="logout">
+        <a href="/accounts/logout">LogOut</a>
+    </div>
+{% else %}
+    <div class="login">
+        <a href="/accounts/login">LogIn</a>    
+    </div>
+{% endif %}
